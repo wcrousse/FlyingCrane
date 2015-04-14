@@ -1,0 +1,9 @@
+C:\Users\wrousse\Documents\FlyingCrane\src\FlyingCraneDb\bin\Debug\FlyingCraneDb.dacpac
+C:\Users\wrousse\Documents\FlyingCrane\src\FlyingCraneDb\bin\Debug\FlyingCraneDb.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\FlyingCraneDb\bin\Debug\FlyingCraneDb.pdb
+C:\Users\wrousse\Documents\FlyingCrane\src\FlyingCraneDb\obj\Debug\Model.xml
+C:\Users\wrousse\Documents\FlyingCrane\src\FlyingCraneDb\obj\Debug\refactor.xml
+C:\Users\wrousse\Documents\FlyingCrane\src\FlyingCraneDb\obj\Debug\postdeploy.sql
+C:\Users\wrousse\Documents\FlyingCrane\src\FlyingCraneDb\obj\Debug\predeploy.sql
+C:\Users\wrousse\Documents\FlyingCrane\src\FlyingCraneDb\obj\Debug\FlyingCraneDb.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\FlyingCraneDb\obj\Debug\FlyingCraneDb.pdb

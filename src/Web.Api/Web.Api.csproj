@@ -38,7 +38,28 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AutoMapper">
+      <HintPath>..\..\lib\AutoMapper.3.3.1\lib\net40\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="AutoMapper.Net4">
+      <HintPath>..\..\lib\AutoMapper.3.3.1\lib\net40\AutoMapper.Net4.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate">
+      <HintPath>..\..\lib\FluentNHibernate.2.0.1.0\lib\net40\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections">
+      <HintPath>..\..\lib\Iesi.Collections.4.0.0.4000\lib\net40\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>..\..\lib\log4net.2.0.3\lib\net40-full\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="NHibernate">
+      <HintPath>..\..\lib\NHibernate.4.0.3.4000\lib\net40\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject">
+      <HintPath>..\..\lib\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
+    </Reference>
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -96,6 +117,24 @@
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{32d9d324-895f-446a-ba74-e8bc3b7d8181}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data.SqlServer\Data.SqlServer.csproj">
+      <Project>{42b36969-6bcb-4ca4-b056-2f5b9e55382e}</Project>
+      <Name>Data.SqlServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data\Data.csproj">
+      <Project>{31f0214d-b309-4251-b860-8265d0337a3f}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Web.Api.Models\Web.Api.Models.csproj">
+      <Project>{26c805a1-e255-44f0-ac5f-fc9aa9eda134}</Project>
+      <Name>Web.Api.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
@@ -121,6 +160,7 @@
       </FlavorProperties>
     </VisualStudio>
   </ProjectExtensions>
+  <Import Project="..\..\lib\AutoMapper.3.3.1\tools\AutoMapper.targets" Condition="Exists('..\..\lib\AutoMapper.3.3.1\tools\AutoMapper.targets')" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">

@@ -1,0 +1,5 @@
+C:\Users\wrousse\Documents\FlyingCrane\src\Web.Api.Models\bin\Debug\Web.Api.Models.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Web.Api.Models\bin\Debug\Web.Api.Models.pdb
+C:\Users\wrousse\Documents\FlyingCrane\src\Web.Api.Models\obj\Debug\Web.Api.Models.csprojResolveAssemblyReference.cache
+C:\Users\wrousse\Documents\FlyingCrane\src\Web.Api.Models\obj\Debug\Web.Api.Models.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Web.Api.Models\obj\Debug\Web.Api.Models.pdb

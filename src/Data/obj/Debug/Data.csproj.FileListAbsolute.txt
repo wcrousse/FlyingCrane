@@ -1,0 +1,5 @@
+C:\Users\wrousse\Documents\FlyingCrane\src\Data\bin\Debug\Data.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Data\bin\Debug\Data.pdb
+C:\Users\wrousse\Documents\FlyingCrane\src\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\wrousse\Documents\FlyingCrane\src\Data\obj\Debug\Data.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Data\obj\Debug\Data.pdb

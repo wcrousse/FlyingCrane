@@ -1,0 +1,17 @@
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\AutoMapper.Net4.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\Data.SqlServer.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\Data.SqlServer.pdb
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\Common.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\Data.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\FluentNHibernate.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\Iesi.Collections.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\NHibernate.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\Common.pdb
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\Data.pdb
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\FluentNHibernate.pdb
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\FluentNHibernate.xml
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\Iesi.Collections.xml
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\bin\Debug\NHibernate.xml
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\obj\Debug\Data.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\obj\Debug\Data.SqlServer.dll
+C:\Users\wrousse\Documents\FlyingCrane\src\Data.SqlServer\obj\Debug\Data.SqlServer.pdb
